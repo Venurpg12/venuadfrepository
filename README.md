@@ -1,2 +1,2 @@
 # venuadfrepository
-creating repository for code deployments --- venu dev1
+creating repository for code deployments
